@@ -34,7 +34,7 @@ body{
  }
  #about .vocation{
     font-size: 17px;
-    color: #A8A8AB;
+    color: #8c8c8e;
     margin-bottom: 10px;
  }
  #about .skills{
@@ -45,12 +45,12 @@ body{
  #about .email{
     margin-top: 14px;
     font-size: 30px;
-    font-size: 14px;
+    font-size: 15px;
 
  }
  #about .icons {
     margin-top: 20px;
-    font-size: 30px;
+    font-size: 35px;
  }
  p {
     font-size: 14px;
@@ -89,5 +89,5 @@ a.font-black{
  }
 
  #PROJECT .card title{
-    tefont-weight: bold;
+    font-weight: bold;
  }
