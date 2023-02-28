@@ -87,7 +87,9 @@ a.font-black{
  #project .card img{
     width: 100%;
  }
-
- #PROJECT .card title{
+ #project .card video{
+   width: 100%;
+}
+ #project .card title{
     font-weight: bold;
  }
